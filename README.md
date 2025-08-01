@@ -115,5 +115,5 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Thank you" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!"/>
 </p>
