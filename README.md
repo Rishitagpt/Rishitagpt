@@ -80,3 +80,40 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 - 🔬 Achieved **23.2% CAGR** in ML models on **WorldQuant BRAIN**
 - 📊 Built end-to-end **Data Science**, **Web**, and **Payment** solutions
 - 💻 Solved **300+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
+
+---
+
+---
+
+### ⭐ Connect with me on social media 📲
+
+<table>
+  <tr>
+    <td><b>LinkedIn</b></td>
+    <td><b>GitHub</b></td>
+    <td><b>LeetCode</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rishita-gupta-217642279/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rishitagpt" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Rishitagpt01/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Thank you" />
+</p>
