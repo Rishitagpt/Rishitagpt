@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/blob-cool.gif" width="35"/> 
+  Hello, I'm Rishita Gupta!
+</h1>
 
-<!--
-**Rishitagpt/Rishitagpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Final Year CSE Student | AI & Full-Stack Enthusiast | Greater Noida, India</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Rishitagpt">
+    <img src="https://komarev.com/ghpvc/?username=Rishitagpt&label=Profile%20Views&color=0e75b6&style=flat" alt="Rishitagpt" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 💡 Final year Computer Science student passionate about AI, Data Science, and Web Development
+- 🌐 Submitted production-level **Alpha models** on **WorldQuant BRAIN platform**
+- 📊 Achieved 23.2% CAGR using Genetic Algorithms & Transformer-based ML models
+- 🧠 Solved 300+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishita-gupta-217642279/)
+
+---
+
+### 🧠 Skills
+
+```bash
+Languages:        Java, Python, HTML, CSS, JavaScript
+Frontend:         React.js
+Backend:          Node.js
+Data Science:     NumPy, Pandas, Matplotlib
+Databases:        SQL, PostgreSQL
+Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
+```
+
+---
+
+---
+
+### 💻 Projects
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **Razorpay Payment Integration** | End-to-end payment flow using Razorpay API with server-side order creation and webhook handling | React, Node.js, Razorpay API | [GitHub](https://github.com/Rishitagpt/Razorpay-Payment-Integration) |
+| **One District One Product (ODOP)** | Web portal showcasing local products and culture from Jammu & Kashmir with prototypes for other states | HTML, CSS, JS | [GitHub](https://github.com/Rishitagpt/One-District-One-Product-J-K-) |
+| **Stock Analysis using Python** | Visualized 10,000+ rows of historical data using Plotly and Matplotlib to extract stock insights | Python, Pandas, Plotly | [GitHub](https://github.com/Rishitagpt/Stock-Analysis) |
+
+---
+
+### 📚 Education
+
+| Degree | Institution | Score | Year |
+|--------|-------------|-------|------|
+| B.Tech - CSE | NIET, Greater Noida | CGPA: 8.32 | 2022–2026 |
+| Class 12 | DALIMSS Sunbeam School | 96% | 2021 |
+| Class 10 | DALIMSS Sunbeam School | 96.4% | 2019 |
+
+---
+
+### 🧑‍🏫 Positions of Responsibility
+
+- 🎤 **Anchor & Scriptwriter** – *Conventus Club*
+  - Anchored 10+ events with 200+ attendees
+  - Scripted 15+ live show scripts ensuring smooth coordination
+  - Managed logistics and team collaboration
+
+---
+
+### 📄 Certifications
+
+- **Java Programming Fundamentals**, **ReactJS**, **NLP using Python** – *Infosys Springboard*
+- **Python for Data Science, AI & Development**, **Intro to AI**, **OOP in Java** – *Coursera*
+- **Web Development Bootcamp** – *Udemy*
+
+---
+
+### ✨ Highlights
+
+- 🔬 Achieved **23.2% CAGR** in ML models on **WorldQuant BRAIN**
+- 📊 Built end-to-end **Data Science**, **Web**, and **Payment** solutions
+- 💻 Solved **300+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
