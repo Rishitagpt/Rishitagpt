@@ -42,7 +42,7 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **Razorpay Payment Integration** | End-to-end payment flow using Razorpay API with server-side order creation and webhook handling | React, Node.js, Razorpay API | [GitHub](https://github.com/Rishitagpt/Razorpay-Payment-Integration) |
+| **HAPPY HOME STAY - Guest House Landing** | A responsive single-page React + Vite landing site for Happy Home Stay, showcasing rooms, gallery, pricing, FAQs, and contact details. | [GitHub](https://github.com/Rishitagpt/Guest-House) |
 | **One District One Product (ODOP)** | Web portal showcasing local products and culture from Jammu & Kashmir with prototypes for other states | HTML, CSS, JS | [GitHub](https://github.com/Rishitagpt/One-District-One-Product-J-K-) |
 | **Stock Analysis using Python** | Visualized 10,000+ rows of historical data using Plotly and Matplotlib to extract stock insights | Python, Pandas, Plotly | [GitHub](https://github.com/Rishitagpt/Stock-Analysis) |
 
