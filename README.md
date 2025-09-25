@@ -75,10 +75,10 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 
 ---
 
-### ✨ Highlights
+### ✨ Achievements
 
+- 🏆 National Semi-Finalist, Flipkart GRiD 7.0, among top teams nationwide (2025): [Certificate](https://drive.google.com/file/d/1vwpWs3qg7HmhrkJFf_P9_Jff2LfK-2CW/view)
 - 🔬 Achieved **23.2% CAGR** in ML models on **WorldQuant BRAIN**
-- 📊 Built end-to-end **Data Science**, **Web**, and **Payment** solutions
 - 💻 Solved **300+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
 
 ---
