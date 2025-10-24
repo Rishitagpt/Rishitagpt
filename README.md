@@ -18,7 +18,7 @@
 - 💡 Final year Computer Science student passionate about AI, Data Science, and Web Development
 - 🌐 Submitted production-level **Alpha models** on **WorldQuant BRAIN platform**
 - 📊 Achieved 23.2% CAGR using Genetic Algorithms & Transformer-based ML models
-- 🧠 Solved 300+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
+- 🧠 Solved 400+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishita-gupta-217642279/)
 
 ---
@@ -79,7 +79,7 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 
 - 🏆 National Semi-Finalist, Flipkart GRiD 7.0, among top teams nationwide (2025): [Certificate](https://drive.google.com/file/d/1vwpWs3qg7HmhrkJFf_P9_Jff2LfK-2CW/view)
 - 🔬 Achieved **23.2% CAGR** in ML models on **WorldQuant BRAIN**
-- 💻 Solved **300+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
+- 💻 Solved **400+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
 
 ---
 
