@@ -18,7 +18,7 @@
 - 💡 Final year Computer Science student passionate about AI, Data Science, and Web Development
 - 🌐 Submitted production-level **Alpha models** on **WorldQuant BRAIN platform**
 - 📊 Achieved 23.2% CAGR using Genetic Algorithms & Transformer-based ML models
-- 🧠 Solved 400+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
+- 🧠 Solved 500+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishita-gupta-217642279/)
 
 ---
@@ -45,6 +45,7 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 | **HAPPY HOME STAY - Guest House Landing** | A responsive single-page React + Vite landing site for Happy Home Stay, showcasing rooms, gallery, pricing, FAQs, and contact details. | HTML, CSS, JS, Vite, React | [GitHub](https://github.com/Rishitagpt/Guest-House) |
 | **One District One Product (ODOP)** | Web portal showcasing local products and culture from Jammu & Kashmir with prototypes for other states | HTML, CSS, JS | [GitHub](https://github.com/Rishitagpt/One-District-One-Product-J-K-) |
 | **Stock Analysis using Python** | Visualized 10,000+ rows of historical data using Plotly and Matplotlib to extract stock insights | Python, Pandas, Plotly | [GitHub](https://github.com/Rishitagpt/Stock-Analysis) |
+| **Urban Dining Analytics** | An in-depth analysis of the Zomato Bangalore dataset | SQL, PostgreSQL | [GitHub](https://github.com/Rishitagpt/Zomato-Analytics) |
 
 ---
 
@@ -79,7 +80,7 @@ Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
 
 - 🏆 National Semi-Finalist, Flipkart GRiD 7.0, among top teams nationwide (2025): [Certificate](https://drive.google.com/file/d/1vwpWs3qg7HmhrkJFf_P9_Jff2LfK-2CW/view)
 - 🔬 Achieved **23.2% CAGR** in ML models on **WorldQuant BRAIN**
-- 💻 Solved **400+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
+- 💻 Solved **500+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
 
 ---
 
