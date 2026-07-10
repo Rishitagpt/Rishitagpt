@@ -62,22 +62,10 @@ AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 
 ---
 
-### 🎓 Education
+### ✨ Achievements
 
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| **B.Tech – Computer Science & Engineering** | Noida Institute of Engineering and Technology, Greater Noida | **CGPA: 8.44** | **2022 – 2026** |
-| **Senior Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96%** | **2021** |
-| **Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96.4%** | **2019** |
-
----
-
-### 🧑‍🏫 Positions of Responsibility
-
-- 🎤 **Anchor & Scriptwriter** – *Conventus Club*
-  - Anchored 10+ events with 200+ attendees
-  - Scripted 15+ live show scripts ensuring smooth coordination
-  - Managed logistics and team collaboration
+- 🏆 National Semi-Finalist, Flipkart GRiD 7.0, among top teams nationwide (2025): [Certificate](https://drive.google.com/file/d/1vwpWs3qg7HmhrkJFf_P9_Jff2LfK-2CW/view)
+- 💻 Solved **600+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
 
 ---
 
@@ -101,10 +89,22 @@ AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 
 ---
 
-### ✨ Achievements
+### 🎓 Education
 
-- 🏆 National Semi-Finalist, Flipkart GRiD 7.0, among top teams nationwide (2025): [Certificate](https://drive.google.com/file/d/1vwpWs3qg7HmhrkJFf_P9_Jff2LfK-2CW/view)
-- 💻 Solved **600+ LeetCode** problems: [Profile](https://leetcode.com/u/Rishitagpt01/)
+| Degree | Institution | Score | Year |
+|--------|-------------|-------|------|
+| **B.Tech – Computer Science & Engineering** | Noida Institute of Engineering and Technology, Greater Noida | **CGPA: 8.44** | **2022 – 2026** |
+| **Senior Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96%** | **2021** |
+| **Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96.4%** | **2019** |
+
+---
+
+### 🧑‍🏫 Positions of Responsibility
+
+- 🎤 **Anchor & Scriptwriter** – *Conventus Club*
+  - Anchored 10+ events with 200+ attendees
+  - Scripted 15+ live show scripts ensuring smooth coordination
+  - Managed logistics and team collaboration
 
 ---
 
