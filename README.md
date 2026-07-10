@@ -3,7 +3,7 @@
   Hello, I'm Rishita Gupta!
 </h1>
 
-<h3 align="center">Final Year CSE Student | AI & Full-Stack Enthusiast | Greater Noida, India</h3>
+<h3 align="center">Computer Science Graduate| AI & Full-Stack Enthusiast | Greater Noida, India</h3>
 
 <p align="center">
   <a href="https://github.com/Rishitagpt">
