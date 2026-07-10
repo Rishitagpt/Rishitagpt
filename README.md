@@ -81,11 +81,23 @@ AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 
 ---
 
-### 📄 Certifications
+### 📜 Certifications
 
-- **Java Programming Fundamentals**, **ReactJS**, **NLP using Python** – *Infosys Springboard*
-- **Python for Data Science, AI & Development**, **Intro to AI**, **OOP in Java** – *Coursera*
-- **Web Development Bootcamp** – *Udemy*
+- **Cisco Networking Academy**
+  - CCNA v7: Introduction to Networks
+  - Switching, Routing & Wireless Essentials
+  - Enterprise Networking, Security & Automation
+  - Python Essentials 1 & 2
+  - Introduction to Cybersecurity
+
+- **Coursera**
+  - Object-Oriented Programming in Java
+  - Python Basics
+  - Python for Data Science, AI & Development
+  - Introduction to Artificial Intelligence (AI)
+
+- **Udemy**
+  - Web Development Bootcamp
 
 ---
 
