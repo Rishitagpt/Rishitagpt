@@ -27,12 +27,13 @@
 ### 🧠 Skills
 
 ```bash
-Languages:        Java, Python, HTML, CSS, JavaScript
-Frontend:         React.js
-Backend:          Node.js
-Data Science:     NumPy, Pandas, Matplotlib
-Databases:        SQL, PostgreSQL
-Tools:            Git, VS Code, Jupyter, Canva, Power BI, MS Excel
+Programming:      Java, Python, JavaScript, SQL
+Backend:          Spring, Spring Boot, Spring Data JPA, Spring Security, REST APIs
+Frontend:         React.js, HTML5, CSS3, Bootstrap
+Databases:        PostgreSQL, MySQL
+Core CS:          DSA, OOP, DBMS, Operating Systems, Computer Networks
+Tools:            Git, GitHub, Maven, Postman, JUnit, Mockito, VS Code, IntelliJ IDEA
+AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 ```
 
 ---
