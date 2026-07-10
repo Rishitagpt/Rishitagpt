@@ -15,10 +15,11 @@
 
 ### 👩‍💻 About Me
 
-- 💡 Final year Computer Science student passionate about AI, Data Science, and Web Development
-- 🌐 Submitted production-level **Alpha models** on **WorldQuant BRAIN platform**
-- 📊 Achieved 23.2% CAGR using Genetic Algorithms & Transformer-based ML models
-- 🧠 Solved 500+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
+- 🎓 B.Tech Computer Science graduate passionate about Backend Development, Full-Stack Development, and AI
+- 💻 Skilled in building scalable applications using Java, Spring Boot, React, PostgreSQL, and REST APIs
+- 🚀 Completed a Software Engineering Internship at **EPAM Systems**, working with Spring Boot, Generative AI, and modern development practices
+- 🌐 Built full-stack applications with secure authentication, payment integration, and collaborative API management
+- 🧠 Solved 600+ DSA problems on [LeetCode](https://leetcode.com/u/Rishitagpt01/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishita-gupta-217642279/)
 
 ---
