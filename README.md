@@ -55,7 +55,7 @@ AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|------|
-| **Specify – Collaborative API Management Platform** | Built a full-stack platform for creating, organizing, testing, and sharing APIs with workspace collaboration, version control, rollback, activity tracking, and environment management. | Java, Spring Boot, React, PostgreSQL, Spring Data JPA | [GitHub](https://github.com/Rishitagpt/Specify) |
+| **Specify – Collaborative API Management Platform** | Built a full-stack platform for creating, organizing, testing, and sharing APIs with workspace collaboration, version control, rollback, activity tracking, and environment management. | Java, Spring Boot, React, PostgreSQL, Spring Data JPA | [GitHub](https://github.com/Bhoomi3122/API_Collaboration_Platform) |
 | **Happy Home Stay – Guest House Booking System** | Developed a full-stack booking system featuring room reservations, JWT authentication, Razorpay payment integration, email notifications, and RESTful APIs. | Java, Spring Boot, React, PostgreSQL, Spring Security | [GitHub](https://github.com/Rishitagpt/Guest-House) |
 | **Stock Analysis using Python** | Built a data analysis tool to process 10,000+ rows of historical stock data and generate interactive visualizations for market trend analysis. | Python, Pandas, Plotly, Matplotlib | [GitHub](https://github.com/Rishitagpt/Stock-Analysis) |
 | **Urban Dining Analytics** | An in-depth analysis of the Zomato Bangalore dataset | SQL, PostgreSQL | [GitHub](https://github.com/Rishitagpt/Zomato-Analytics) |
