@@ -24,6 +24,18 @@
 
 ---
 
+### 💼 Experience
+
+#### **Junior Application Analyst Intern** | EPAM Systems
+📅 **January 2026 – July 2026**
+
+- 🚀 Developed backend applications using **Java, Spring Boot, Spring Data JPA, and REST APIs**
+- 🏗️ Applied **SOLID principles**, design patterns, and unit testing using **JUnit** and **Mockito**
+- 🤖 Leveraged **Generative AI, LLMs, Prompt Engineering, GitHub Copilot, and AI Agents** to automate development workflows and improve productivity
+- 🤝 Collaborated with mentors and team members while following industry-standard software development practices
+
+---
+
 ### 🧠 Skills
 
 ```bash
