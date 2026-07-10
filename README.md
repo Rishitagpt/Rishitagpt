@@ -62,13 +62,13 @@ AI & GenAI:       Prompt Engineering, GitHub Copilot, AI Agents
 
 ---
 
-### 📚 Education
+### 🎓 Education
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
-| B.Tech - CSE | NIET, Greater Noida | CGPA: 8.32 | 2022–2026 |
-| Class 12 | DALIMSS Sunbeam School | 96% | 2021 |
-| Class 10 | DALIMSS Sunbeam School | 96.4% | 2019 |
+| **B.Tech – Computer Science & Engineering** | Noida Institute of Engineering and Technology, Greater Noida | **CGPA: 8.44** | **2022 – 2026** |
+| **Senior Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96%** | **2021** |
+| **Secondary (CBSE)** | DALIMSS Sunbeam School, Varanasi | **96.4%** | **2019** |
 
 ---
 
